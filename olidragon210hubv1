@@ -482,6 +482,6 @@ clrs:Colorpicker("ESP Color", Color3.fromRGB(255,1,1), function(t)
 print(t)
 end)
 
-serv:Channel("by dawid#7205")
+serv:Channel("by BlueEndimion528#6732")
 
 win:Server("Main", "http://www.roblox.com/asset/?id=6031075938")
