@@ -234,8 +234,6 @@ end)
 
 btns1:Seperator()
 
-btns1:Seperator()
-
 btns1:Button("Vhub", function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
 end)
